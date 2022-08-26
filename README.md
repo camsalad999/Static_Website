@@ -1,2 +1,2 @@
-# Static_Website-
-Family holiday pics year-by-year
+# Static_Website
+Family pics year-by-year
